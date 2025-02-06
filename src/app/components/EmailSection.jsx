@@ -10,7 +10,6 @@ const EmailSection = () => {
     <section
       id="contact"
       className="grid z-0 d:grid-cols-2 my-12 md:my-12 py-24 gap-4 relative">
-        /* garis ungu */
         <div className="w-[100px] h-[100px] bg-violet-100 rounded-full absolute top-6 left-[42%] translate-x-1/2 filter blur-3xl  opacity-20">
         </div>
   
