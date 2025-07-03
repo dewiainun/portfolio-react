@@ -32,7 +32,6 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Data Science Practitioner</li>
-        <li>Google Professional Cloud Developer</li>
       </ul>
     ),
   },
